@@ -8,4 +8,4 @@ C = A+B;
 %% Divisione di due numeri (Anna)
 % E =
 %% Sottrazione di due numeri (Mariella)
-% F =
+% F =A-B
